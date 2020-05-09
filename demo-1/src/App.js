@@ -189,7 +189,7 @@ export function App() {
 				<Main name={xname}/>
 			</AppContextProvider>
 			<Footer/>
-			{/*<Dailog/>*/}
+			<Dailog/>
 		</div>
 	);
 }
